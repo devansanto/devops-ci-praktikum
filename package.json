@@ -1,0 +1,10 @@
+{
+  "name": "devops-ci-praktikum",
+  "version": "1.0.0",
+  "description": "DevOps CI/CD Project",
+  "scripts": {
+    "test": "echo Running test... && exit 0",
+    "lint": "echo Linting code... && exit 0",
+    "build": "echo Build complete"
+  }
+}
